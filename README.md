@@ -19,6 +19,10 @@
 
 # work文件格式说明： 
 
+work文件格式是我自己定义的，以方便我不断修订书籍。我自己编写了程序，能从work文件格式的文件生成PDF文件和HTML网页。
+
+我的程序使用python，源代码在：https://gitlab.com/yulei.history/historyprog
+
 ## 标题： 
 
 ```
@@ -34,6 +38,17 @@
 ```
 |a|b|c|
 |d|e|f|
+```
+## 上标和下标(与MD相同)
+```
+2^10^
+H~2~O
+```
+## 数学公式
+使用asciimath格式，参见：http://asciimath.org/ ，嵌入时不使用\`...\`，而是使用以下{% ... }的格式
+
+```
+{% 4/3pir^3}
 ```
 
 ## 引用：
@@ -51,6 +66,9 @@
 {* https://www.google.com}
 {* https://www.google.com|谷歌}
 ```
+
+## 换页（仅适用于生成PDF用）
+{pagegreak}
 
 ## 译名:
 一个重音符号开始一个需要翻译的中文名，之后的[]内，分号前的部分为英文译名
