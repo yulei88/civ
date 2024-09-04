@@ -1,4 +1,14 @@
-{# translation}
+{#! 插图目录}
+
+{list image}
+
+{#! 地图目录}
+
+{list map}
+
+{#! 中英文译名对照}
+
+{`
 `阿波罗[Apollo]
 `阿布辛拜勒[Abu Simbel]
 `阿阇世[Ajatashatru]
@@ -8,7 +18,7 @@
 `阿开亚人[Achaeans]
 `阿克苏姆[Aksum]
 `阿拉米人[Arameans]
-`阿拉米语[Aramaic language]
+`阿拉米语[Aramaic]
 `阿勒颇[Aleppo]
 `阿曼[Oman]
 `阿美涅姆黑特三世[Amenemhat III]
@@ -129,7 +139,7 @@
 `基亚克萨雷斯[Cyaxares]
 `吉加美士[Gilgamesh]
 `吉萨[Giza]
-`笈多王朝[Gupta dynasty]
+`笈多王朝[Gupta Empire]
 `加喜特人[Kassites]
 `迦勒底人[Chaldean]
 `迦南[Canaan]
@@ -145,7 +155,7 @@
 `卡迭石[Kadesh]
 `卡赫美士[Carchemish]
 `卡莫斯[Kamose]
-`卡纳克神庙[karnak]
+`卡纳克神庙[Karnak]
 `凯撒[Caesar]
 `科普特语[Coptic language]
 `克里特岛[Crete]
@@ -353,4 +363,7 @@
 `左塞[Djoser]
 `恩美巴拉格西[Enmebaragesi]
 `伊什比·埃拉[Ishbi-Erra]
-{t}
+}
+
+{translation}
+
