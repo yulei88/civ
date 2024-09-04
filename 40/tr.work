@@ -1,4 +1,14 @@
-{# translation}
+{#! 插图目录}
+
+{list image}
+
+{#! 地图目录}
+
+{list map}
+
+{#! 中英文译名对照表}
+
+{`
 `阿波罗[Apollo]
 `阿多尼斯[Adonis]
 `阿尔比齐[Albizzi]
@@ -6,7 +16,7 @@
 `阿基米德[Archimedes]
 `阿拉贡[Aragon]
 `阿拿克西曼德[Anaximander]
-`阿威罗伊[Averroes]
+`阿威罗伊[Ibn Rushd,Averroes]
 `阿西亚比德[Alcibiades]
 `阿音扎鲁特[Ain Jalut]
 `阿兹台克[Aztecs]
@@ -81,7 +91,7 @@
 `费迪南二世[Ferdinand II]
 `疯女胡安娜[Joanna the Mad]
 `佛得角[Cabo Verde]
-`弗朗茨一世[Francis I, Holy Roman Emperor]
+`弗朗茨一世[Francis I]
 `弗朗切斯卡[Piero della Francesca]
 `弗朗索瓦一世[Francis I of France]
 `弗洛伊德[Sigmund Freud]
@@ -130,7 +140,7 @@
 `卡纳克神庙[Karnak]
 `卡斯蒂亚[Castile]
 `开俄斯[Chios]
-`凯撒[Julius Caesar]
+`凯撒[Caesar]
 `凯瑟琳[Catherine of Aragon]
 `凯瑟琳·美第奇[Catherine de Medici]
 `科尔特斯[Hernán Cortés]
@@ -159,7 +169,7 @@
 `卢森堡[Luxembourg]
 `卢梭[Jean-Jacques Rousseau]
 `路易十三[Louis XIII]
-`路易十四[Louis IX]
+`路易十四[Louis XIV]
 `伦巴底人[Lombards]
 `罗伯特[Robert]
 `罗马[Rome]
@@ -247,7 +257,7 @@
 `塔斯曼[Abel Tasman]
 `塔希提[Tahiti]
 `太平洋[Pacific Ocean]
-`泰勒斯[Thales of Miletus]
+`泰勒斯[Thales]
 `特诺奇提特兰[Tenochtitlan]
 `提洛[Delos]
 `帖木尔[Timur]
@@ -261,17 +271,16 @@
 `汪达尔[Vandals]
 `维吉尔[Virgil]
 `维京人[Vikings]
-`维拉[Núñez Vela]
 `维纳斯[Venus]
 `维斯孔蒂[Visconti]
-`维瓦尔第[Antonio Vivaldi]
+`维瓦尔第[Antonio Lucio Vivaldi]
 `委罗基奥[Andrea del Verrocchio]
-`屋大维[Gaius Octavius Thurinus]
+`屋大维[Octavius]
 `西班牙[Spain]
 `西撒哈拉[Western Sahara]
 `西塞罗[Cicero]
 `西斯廷教堂[Sistine Chapel]
-`西西里[Sicilian]
+`西西里[Sicily]
 `西西里埃米尔国[Emirate of Sicily]
 `西西里晚祷[Sicilian Vespers]
 `希腊[Greece]
@@ -295,7 +304,7 @@
 `耶路撒冷[Jerusalem]
 `伊壁鸠鲁[Epicurus]
 `伊儿汗国[Ilkhanate]
-`伊凡四世["Ivan IV Vasilyevich,Ivan the Terrible"]
+`伊凡四世[Ivan IV Vasilyevich]
 `伊朗[Iran]
 `伊丽莎白一世[Elizabeth I]
 `伊丽莎白一世[Elizabeth I]
@@ -310,4 +319,5 @@
 `扎兰丁[Jalal ad-Din Mingburnu]
 `爪哇[Java]
 `直布罗陀[Gibraltar]
-{t}
+}
+{translation}
