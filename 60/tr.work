@@ -1,0 +1,36 @@
+﻿
+{#! 插图目录}
+
+{list image}
+
+
+{#! 中英文译名对照表}
+
+
+{`
+`丹麦[Denmark]
+`伽利略[Galileo Galilei]
+`俄罗斯[Russia]
+`冯·诺伊曼[]
+`哥廷根[]
+`哥德巴赫[]
+`圣彼得堡[Saint Petersburg]
+`奥地利[Austria]
+`婆罗门[Brahmin]
+`康德[]
+`弗兰西斯·培根[Francis Bacon]
+`捷克[Czech]
+`普林斯顿[]
+`柏林[Berlin]
+`柯尼斯堡[Königsberg]
+`法兰克福[Frankfurt]
+`波兰[Poland]
+`爱因斯坦[Albert Einstein]
+`瑞士[Switzerland]
+`维也纳[Vienna]
+`莎士比亚[William Shakespeare]
+`西伯利亚[Siberia]
+`闵可夫斯基[]
+}
+{Translation}
+
