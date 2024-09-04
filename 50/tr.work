@@ -1,5 +1,19 @@
-﻿{# translation}
+﻿
+{#! 插图目录}
 
+{list image}
+
+{#! 地图目录}
+
+{list map}
+
+{#! 音乐目录}
+
+{list music}
+
+{#! 中英文译名对照表}
+
+{'
 `林奈[Carl Linnaeus]
 `贝卡利亚[Cesare Beccaria]
 `布干维尔[Louis Antoine de Bougainville]
@@ -33,7 +47,7 @@
 `文兰[Vinland]
 `哥伦布[Christopher Columbus]
 `墨西哥[Mexico]
-`阿兹台克[Aztec]
+`阿兹台克[Aztecs]
 `玛雅[Maya]
 `佛罗伦萨[Florence]
 `苏格兰[Scotland]
@@ -72,16 +86,16 @@
 `路易十五[Louis XV]
 `路易十六[Louis XVI]
 `利摩日[Limoges]
-`腓力四世[Philippe IV]
-`亨利四世[Henri IV]
+`腓力四世[Philip IV]
+`亨利四世[Henry IV]
 `波旁[Bourbon]
-`玛丽·美第奇[Marie de' Medici]
+`玛丽·美第奇[Marie de Medici]
 `查理十世[Charles X]
 `吉伦特派[Girondins]
-`拉普拉斯[Pierre-Simon Laplace]
+`拉普拉斯[Pierre-Simon marquis de Laplace]
 `凡尔赛[Versailles]
 `杜伊勒里宫[Tuileries Palace]
-`凯瑟琳·美第奇[Catherine de' Medici]
+`凯瑟琳·美第奇[Catherine de Medici]
 `利奥波特二世[Leopold II]
 `玛丽王后[Marie Antoinette]
 `比利时[Belgium]
@@ -93,12 +107,12 @@
 `路易·菲利普[Louis Philippe]
 `马赛[Marseille]
 `土伦[Toulon]
-`屋大维[Octavian]
-`凯撒[Gaius Julius Caesar]
+`屋大维[Octavius]
+`凯撒[Caesar]
 `格里高利历[Gregorian calendar]
 `莱茵河[Rhine]
 `比利牛斯山[Pyrenees]
-`热那亚[Genoa]
+`热那亚[Genova]
 `米兰[Milan]
 `爱尔兰[Ireland]
 `加勒比海[Caribbean Sea]
@@ -186,5 +200,6 @@
 `斯大林[Joseph Stalin]
 `苏黎世[Zürich]
 `开普敦[Cape Town]
-`波斯[Persian]
-{t}
+`波斯[Persia]
+}
+{Translation}
