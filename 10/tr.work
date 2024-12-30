@@ -1,12 +1,3 @@
-{#! 插图目录}
-
-{list image}
-
-{#! 地图目录}
-
-{list map}
-
-{#! 中英文译名对照}
 
 {`
 `阿波罗[Apollo]
@@ -364,6 +355,3 @@
 `恩美巴拉格西[Enmebaragesi]
 `伊什比·埃拉[Ishbi-Erra]
 }
-
-{translation}
-
