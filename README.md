@@ -22,7 +22,7 @@
 
 # work文件格式说明： 
 
-work文件格式是我自己定义的，以方便我不断修订书籍。我自己编写了程序，能从work文件格式的文件生成PDF文件和HTML网页。
+work文件格式是我自己定义的，以方便我不断修订书籍。我自己编写了程序，能从work文件格式的文件生成PDF、EPUB文件和HTML网页。
 
 我的程序使用python，源代码在：https://gitlab.com/yulei.history/historyprog
 
